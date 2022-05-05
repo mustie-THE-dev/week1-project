@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;1,200&display=swap');
+
+*{
+   font-family: 'Nunito', sans-serif;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   list-style: none;
+   text-decoration: none;
+}
+
+body{
+   width: 100%;
+   height: 100vh;
+   position: relative;
+}
+
+nav{
+   display: flex;
+   width: 100%;
+   line-height: 80px;
+   padding:1px 0;
+}
+
+nav .moringa{
+   font-size: 40px;
+   padding: 0 40px;
+   font-weight: bold;
+}
+
+nav .moringa span{
+   color: #EC4067;
+}
+
+nav ul{
+   text-align: right;
+   padding-right: 20px;
+   margin-left: 500px;
+}
+
+nav ul li{
+   display: inline-block;
+   margin: 3px 80px;
+}
+
+nav ul li a{
+   color: black;
+   position: relative;
+   padding: 5px 0;
+}
+
+nav ul li button{
+   background: #EC4067;
+   width: 90px;
+   border-style: none;
+   border-radius: 5px;
+   padding: 7px 0;
+}
+
+nav ul li button a{
+   color: white;
+   font-size: 18px;
+}
+
+.ntg{
+   display: flex;
+   justify-content: space-between;
+   margin: 3rem;
+}
+.section{
+     margin: 4rem ;
+
+}
+.tech{
+   color: #EC4067;
+   font-size: xx-large;
+   padding: 1rem 0rem;
+}
+.div-button{
+       margin: 2rem 0rem;
+       
+       
+       
+}
+.explore{
+     background-color: white;
+     color: #EC4067;
+     margin: 0rem 2rem;
+     border-color: #EC4067;
+     padding: 15px 32px ;
+     
+}
+.orientation{
+   font-size: xx-large;
+   padding: 2rem 0rem;
+}
+.pic1{
+   display: flex;
+   justify-content: space-between;
+   margin: 7rem;
+}
+.board{
+   font-size: xx-large;
+   padding: 1rem 0rem;
+}
+.end{
+   
+   margin: 7rem;
+   padding: auto;
+   font-size: xx-large;
+}
+.technical{
+   margin: 7rem;
+   
+}
+
+.side{
+   display: flex;
+   justify-content: space-between;
+   margin: 10px;
+   flex-direction: row;
+   
+}
+
+
+.project{
+   display: flex;
+   flex-direction: row;
+   padding-top: 40px;
+}
+.project h6{
+   padding-top: 1%;
+   padding-left: 10px;
+}
+.ntr{
+   display: flex;
+   padding-left: 50px;
+}
+.bike{
+   background-image: url(/Assets/images/image\ 9.png);
+   background-size: cover;
+   height: 450px;
+   width: 50%;
+}
