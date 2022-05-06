@@ -67,7 +67,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [Go Back to the top](#week1-project)
 ## Authors Info
-Slack Profile - [Albert Byrone](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
-Linked - [Albert Byrone](https://www.linkedin.com/in/albert-byrone-664811144/)
-[Go Back to the top](#delani-studio)
+https://github.com/mustie-THE-dev
+[Go Back to the top](#week1-project)
 w
