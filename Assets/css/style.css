@@ -110,14 +110,14 @@ nav ul li button a{
    font-size: xx-large;
 }
 .technical{
-   margin: 7rem;
+   margin: 5rem;
    
 }
 
 .side{
    display: flex;
    justify-content: space-between;
-   margin: 10px;
+   margin: 50px;
    flex-direction: row;
    
 }
