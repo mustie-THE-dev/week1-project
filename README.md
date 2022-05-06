@@ -1,4 +1,4 @@
-# Delani Studio
+# Moringa School Landing page
  ## By SIMON KAMAU
 ## Screenshot
  ![image](./Assets/images/Screenshot%20from%202022-05-06%2007-19-49.png)
